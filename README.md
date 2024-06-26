@@ -1,6 +1,6 @@
 # techademyElements
 BaseCode 
-### Contents
+## Contents
 Assignments
 <ul>
   <li>Git</li>
